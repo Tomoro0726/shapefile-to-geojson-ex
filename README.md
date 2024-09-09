@@ -2,7 +2,6 @@
 
 ```
 cargo run
-
 ```
 
 # What is "shapefile-to-geojson" on Rust?
