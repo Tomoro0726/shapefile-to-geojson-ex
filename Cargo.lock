@@ -548,9 +548,9 @@ dependencies = [
 
 [[package]]
 name = "shapefile-to-geojson"
-version = "0.1.2"
+version = "0.1.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e1916b9bd37a26d5564472dc033b313e3dd11550ea13f4aa142b288fac9d3e6d"
+checksum = "1c255c8dad985e26882dba6ba7b631abdbf43f1930640d0adb2b25f7d89158df"
 dependencies = [
  "dbase 0.3.0",
  "futures",

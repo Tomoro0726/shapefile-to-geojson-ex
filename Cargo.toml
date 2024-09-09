@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 
 tokio = { version = "1.0", features = ["full"] }
-shapefile-to-geojson = "*"
+shapefile-to-geojson = "0.1.4"
